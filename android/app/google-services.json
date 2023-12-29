@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913647137893",
+    "project_id": "farebasetesting-dacfa",
+    "storage_bucket": "farebasetesting-dacfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913647137893:android:b226c416305d33566b028c",
+        "android_client_info": {
+          "package_name": "com.example.testing_farebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqLzIrCu5haFDSdIPM5DM8lMhP959w2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
